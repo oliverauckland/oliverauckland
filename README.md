@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oliverauckland
+- 👀 I’m interested in ... AI development, eco-robotics, nanotechnology
+- 💞️ I’m looking to collaborate on ... see above
