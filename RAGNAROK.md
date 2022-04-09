@@ -26,7 +26,7 @@ BALDUR
 Role: Reverses all recorded changes to current biosphere in the event of an unsuccessful terraforming attempt.
 Location: Alboran Island
 Status: STANDBY (JÖRMUNGANDR protocol initiated. Cancellation requests received: 0. Cancellation requests required: 9. Time remaining: 12000 hours.)
-Last Updated: 8 years ago.
+Last Updated: 1 minute ago.
 
 CERNUNNOS
 Role: Development and reintroduction of flora.
